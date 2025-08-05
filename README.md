@@ -1,4 +1,4 @@
-tartup Blueprint Generator
+Startup Blueprint Generator
 
 The **Startup Blueprint Generator** is an AI-powered tool designed to help entrepreneurs, students, and innovators convert raw ideas into structured, investor-ready startup plans — all in minutes.
 
